@@ -1,6 +1,6 @@
 # Docker_implementation_of_Python_Dice_Roll_Game
 
-The docker image of this application has already uploaded to the docker hub.
+Created docker image by me has already uploaded to the docker hub. You can use following instructions for get further details.
 
 ### Pull the image
 

@@ -1,5 +1,4 @@
-# Docker-implementation-of-a-python-application
-Hands on in docker. ( Dice roll game using python ) 
+# Docker_implementation_of_Python_Dice_Roll_Game
 
 The docker image of this application has already uploaded to the docker hub.
 

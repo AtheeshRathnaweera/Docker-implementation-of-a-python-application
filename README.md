@@ -1,7 +1,7 @@
 # Docker implementation of Python Dice Roll Game
 
- **Python - 3.7.0**  
- **Docker - 18.09.2**
+ **Python - *3.7.0***  
+ **Docker - *18.09.2***
 
 Created docker image by me has already uploaded to the docker hub. You can use following instructions for get further details.
 
